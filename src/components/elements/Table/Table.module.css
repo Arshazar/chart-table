@@ -1,0 +1,12 @@
+.container {
+  min-width: 500px;
+  padding: 1.7rem;
+}
+.searchField {
+  display: flex !important;
+  width: 90%;
+  margin: 1rem auto !important;
+}
+.table {
+  height: 210px;
+}

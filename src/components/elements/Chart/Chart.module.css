@@ -1,0 +1,10 @@
+.container {
+  font-size: 0.9em;
+  padding: 1.1rem;
+  width: fit-content;
+}
+.container h2 {
+  margin-left: 2.7rem;
+}
+.chart {
+}
